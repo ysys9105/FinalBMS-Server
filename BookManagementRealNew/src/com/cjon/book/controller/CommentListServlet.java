@@ -18,7 +18,7 @@ import com.cjon.book.service.BookService;
 public class CommentListServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-    /**
+    /** 
      * @see HttpServlet#HttpServlet()
      */
     public CommentListServlet() {
