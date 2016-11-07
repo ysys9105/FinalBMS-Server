@@ -1,0 +1,5 @@
+DB ID/PW : jquery/jquery
+Port: 7070
+
+사용한 테이블 총 4개. book, book_comment, user, lendbook
+
